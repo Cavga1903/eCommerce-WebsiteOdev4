@@ -276,7 +276,7 @@
     margin-top: 15px;
     opacity: 0; /* İlk başta görünmez */
     transition: opacity 0.3s ease-in-out;
-    width: 15px;
+    width: 38%;
     font-size: bold;
     cursor: pointer;
 }
@@ -309,11 +309,11 @@
 }
 
 /* İkon Yazıları */
-.icon span {
+/* .icon span {
     color: white;
     font-size: 12px;
     margin-top: 5px;
-}
+} */
 
 
 /* Etiketler */
